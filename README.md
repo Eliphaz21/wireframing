@@ -36,3 +36,52 @@ Each element of a wireframe contributes to a smooth and intuitive user experienc
 - **Functionality** makes the interface interactive and useful.  
 
 Together, these elements form the foundation of a user-centered design that enhances usability and efficiency.
+## Types of Wireframes
+
+Wireframes can vary in detail and visual fidelity depending on the stage of the design process. The two main types are **Low-Fidelity** and **High-Fidelity** wireframes.
+
+### 1. Low-Fidelity Wireframes
+Low-fidelity wireframes are simple sketches or outlines used to represent the basic structure and layout of a design. They focus on functionality, placement, and user flow rather than design aesthetics.
+
+**Characteristics:**
+- Hand-drawn or created using basic tools like Balsamiq or pen and paper.  
+- Contain placeholders (e.g., boxes for images, lines for text).  
+- Minimal details—no colors, typography, or images.  
+- Quick to create and easy to modify.
+
+**When to Use:**
+- Early stages of the design process.  
+- For brainstorming and conceptual discussions.  
+- To communicate general layout ideas to stakeholders or team members.
+
+**Example:**  
+A rough sketch showing where the navigation bar, buttons, and content will be placed on a booking page.
+
+---
+
+### 2. High-Fidelity Wireframes
+High-fidelity wireframes are detailed and polished visual representations of a design. They closely resemble the final product and may include colors, fonts, images, and interactive elements.
+
+**Characteristics:**
+- Created using tools like Figma, Adobe XD, or Sketch.  
+- Include accurate spacing, typography, and branding elements.  
+- Often used for usability testing and final design approval.
+
+**When to Use:**
+- Later stages of the design process.  
+- For client presentations and stakeholder reviews.  
+- To test user interactions and visual design consistency.
+
+**Example:**  
+A detailed digital wireframe of a booking confirmation page with styled buttons, images, and a color palette matching the brand identity.
+
+---
+
+## What Type of Wireframe Is Here
+
+The wireframe presented in this project is a **Low-Fidelity Wireframe**.  
+
+It focuses on the **layout structure, navigation, and content placement** without including visual details like colors, fonts, or high-resolution images. Its main goal is to represent the **user flow** and **functionality** of the booking system in a simple, easy-to-understand format.
+
+Low-fidelity wireframes are ideal at this stage because they allow for quick feedback and easy adjustments before moving on to detailed design work.
+
