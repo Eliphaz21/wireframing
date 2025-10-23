@@ -84,4 +84,41 @@ The wireframe presented in this project is a **Low-Fidelity Wireframe**.
 It focuses on the **layout structure, navigation, and content placement** without including visual details like colors, fonts, or high-resolution images. Its main goal is to represent the **user flow** and **functionality** of the booking system in a simple, easy-to-understand format.
 
 Low-fidelity wireframes are ideal at this stage because they allow for quick feedback and easy adjustments before moving on to detailed design work.
+## Wireframing Tools
+
+Wireframing can be done using a variety of tools that help designers and developers visualize system layouts and user flows before implementation. These tools range from simple sketching platforms to advanced design and collaboration software.
+
+### Popular Wireframing Tools
+
+1. **Figma**  
+   Figma is a cloud-based design and prototyping tool widely used for wireframing, UI/UX design, and collaboration.  
+   **Key Features:**
+   - Real-time collaboration — multiple users can edit and comment simultaneously.  
+   - Vector-based design with reusable components.  
+   - Easy sharing and feedback via browser-based access.  
+   - Integration with prototyping, developer handoff, and design systems.  
+
+   **Why Figma is Recommended for Wireframing:**  
+   - It allows quick creation of both **low-fidelity** and **high-fidelity** wireframes.  
+   - Its **drag-and-drop interface** makes designing intuitive, even for beginners.  
+   - Teams can work together seamlessly without installing extra software.  
+   - Figma’s community templates and UI kits accelerate design workflow.  
+
+2. **Balsamiq**  
+   A low-fidelity wireframing tool that focuses on simplicity and speed. Ideal for early conceptual stages when brainstorming layouts.  
+
+3. **Adobe XD**  
+   A professional tool used for creating high-fidelity wireframes, prototypes, and interactive designs with advanced animation and integration options.  
+
+4. **Sketch**  
+   A macOS-based design tool known for creating detailed wireframes and UI designs. It supports plugins and reusable symbols for efficient workflows.  
+
+5. **Draw.io (diagrams.net)**  
+   A free, browser-based diagramming tool suitable for creating flowcharts, mockups, and wireframes quickly.
+
+---
+
+### Summary
+While many tools are available for wireframing, **Figma** stands out as the most versatile and collaborative option. It supports every stage of the design process — from brainstorming low-fidelity sketches to delivering pixel-perfect, high-fidelity prototypes ready for development.
+
 
